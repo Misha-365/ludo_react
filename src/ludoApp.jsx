@@ -1,13 +1,10 @@
-//import "./ludoGame.css"
-//import LudoGame from "./ludoGame.jsx";
-import TodoList from "./ToDo.jsx"
-import "./todo.css"
+import "./ludoGame.css"
+import LudoGame from "./ludoGame.jsx";
+
 function ludoApp() {
   return (
     <>
-    {/* <LudoGame/> */}
-    <TodoList/>
-    
+    <LudoGame/>  
 </>
       );
       }
